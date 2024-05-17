@@ -8,14 +8,19 @@ After clone,
 
 ### Server side 
 cd server-nest
+
 npm i
+
 npm run start:dev
 
 #### Test
 npx jest
 
 #### Client side
+cd svelte-client-ts
+
 npm i
+
 npm start dev
 
 
