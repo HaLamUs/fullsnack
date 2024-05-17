@@ -8,10 +8,14 @@ After clone,
 
 ### Server side 
 cd server-nest
+npm i
 npm run start:dev
 
 #### Test
 npx jest
+
+#### Client side
+npm i
 npm start dev
 
 
